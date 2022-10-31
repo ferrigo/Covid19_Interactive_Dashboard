@@ -15,3 +15,5 @@ This project is an interactive dashboard for data analysis of Covid-19 behavior 
     - Dash
     - Dash Bootstrap Components
     - Plotly
+    
+![Screenshot 2022-10-31 at 14 14 00](https://user-images.githubusercontent.com/90803914/199070290-776b632e-2cbe-43ad-bd28-4abc82f7e710.png)
